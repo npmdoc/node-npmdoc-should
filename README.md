@@ -1,11 +1,13 @@
-# api documentation for  [should (v11.2.1)](https://github.com/shouldjs/should.js)  [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-should.svg)](https://travis-ci.org/npmdoc/node-npmdoc-should)
+# api documentation for  [should (v11.2.1)](https://github.com/shouldjs/should.js)  [![npm package](https://img.shields.io/npm/v/npmdoc-should.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-should) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-should.svg)](https://travis-ci.org/npmdoc/node-npmdoc-should)
 #### test framework agnostic BDD-style assertions
 
 [![NPM](https://nodei.co/npm/should.png?downloads=true)](https://www.npmjs.com/package/should)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-should/build/screen-capture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-should_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-should/build..beta..travis-ci.org/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-should/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-should_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-should/build/apidoc.html)
 
-![package-listing](https://npmdoc.github.io/node-npmdoc-should/build/screen-capture.npmPackageListing.svg)
+![npmPackageListing](https://npmdoc.github.io/node-npmdoc-should/build/screenCapture.npmPackageListing.svg)
+
+![npmPackageDependencyTree](https://npmdoc.github.io/node-npmdoc-should/build/screenCapture.npmPackageDependencyTree.svg)
 
 
 
