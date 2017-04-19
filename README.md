@@ -1,9 +1,14 @@
-# api documentation for  [should (v11.2.1)](https://github.com/shouldjs/should.js)  [![npm package](https://img.shields.io/npm/v/npmdoc-should.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-should) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-should.svg)](https://travis-ci.org/npmdoc/node-npmdoc-should)
+# npmdoc-should
+
+#### api documentation for  [should (v11.2.1)](https://github.com/shouldjs/should.js)  [![npm package](https://img.shields.io/npm/v/npmdoc-should.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-should) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-should.svg)](https://travis-ci.org/npmdoc/node-npmdoc-should)
+
 #### test framework agnostic BDD-style assertions
 
-[![NPM](https://nodei.co/npm/should.png?downloads=true)](https://www.npmjs.com/package/should)
+[![NPM](https://nodei.co/npm/should.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/should)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-should/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-should_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-should/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-should/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-should/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-should/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-should/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-should/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "TJ Holowaychuk",
-        "email": "tj@vision-media.ca"
+        "name": "TJ Holowaychuk"
     },
     "bugs": {
         "url": "https://github.com/shouldjs/should.js/issues"
@@ -67,25 +71,20 @@
     "main": "./index.js",
     "maintainers": [
         {
-            "name": "tjholowaychuk",
-            "email": "tj@vision-media.ca"
+            "name": "tjholowaychuk"
         },
         {
-            "name": "gjohnson",
-            "email": "gjj391@gmail.com"
+            "name": "gjohnson"
         },
         {
-            "name": "travisjeffery",
-            "email": "tj@travisjeffery.com"
+            "name": "travisjeffery"
         },
         {
-            "name": "btd",
-            "email": "bardadymchik@gmail.com"
+            "name": "btd"
         }
     ],
     "name": "should",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/shouldjs/should.js.git"
@@ -103,10 +102,6 @@
     "version": "11.2.1"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
 
 
 
